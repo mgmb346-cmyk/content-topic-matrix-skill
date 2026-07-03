@@ -44,6 +44,7 @@
 
 ```bash
 npx -y skills add mgmb346-cmyk/content-topic-matrix-skill -g --all
+```
 
 ## 使用方式
 
