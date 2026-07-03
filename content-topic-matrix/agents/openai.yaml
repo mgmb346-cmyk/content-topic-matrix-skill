@@ -1,0 +1,4 @@
+interface:
+  display_name: "内容选题矩阵 Skill"
+  short_description: "适合女性成长、学习、职场、AI等内容创作者，把一个母题拆成选题池，并筛出本周可拍选题。"
+  default_prompt: "用内容选题矩阵，把这个母题拆成20个候选选题，并筛出最值得拍的3条："
