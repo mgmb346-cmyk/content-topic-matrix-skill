@@ -40,15 +40,10 @@
 - 可互动：用户看完有没有话可以回？
 - 可延展：如果数据好，我能不能继续拍 3-10 条？
 
-## 安装方式
-
-把 `content-topic-matrix` 文件夹复制到你的 Codex skills 目录：
+## 通用安装方式（适用于 Codex / Claude Code）
 
 ```bash
-cp -R content-topic-matrix ~/.codex/skills/
-```
-
-重启 Codex 后即可使用。
+npx -y skills add mgmb346-cmyk/content-topic-matrix-skill -g --all
 
 ## 使用方式
 
